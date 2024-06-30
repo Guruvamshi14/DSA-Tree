@@ -40,4 +40,8 @@ This repository contains a collection of tree-related problems that I have solve
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0975-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Guruvamshi14/DSA-Tree/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
