@@ -9,18 +9,21 @@ This repository contains a collection of tree-related problems that I have solve
 | [0226-invert-binary-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,4 +36,8 @@ This repository contains a collection of tree-related problems that I have solve
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Guruvamshi14/DSA-Tree/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
