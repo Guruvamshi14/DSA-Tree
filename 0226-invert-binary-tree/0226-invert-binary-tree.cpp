@@ -14,7 +14,7 @@ public:
 
     TreeNode* invertTREE(TreeNode* root) {
 
-        if(!root)
+        if(root == NULL)
             return NULL;
         
         
