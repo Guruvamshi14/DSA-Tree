@@ -17,11 +17,12 @@ public:
         if(!root)
             return NULL;
         
-        TreeNode* l = root->left;
-        TreeNode* r = root->right;
+        
+        TreeNode* le = root->left;
+        TreeNode* ri = root->right;
 
-        root->left = invertTree(r);
-        root->right = invertTree(l);
+        root->left = invertTree(ri);
+        root->right = invertTree(le);
 
         return root;
     }
